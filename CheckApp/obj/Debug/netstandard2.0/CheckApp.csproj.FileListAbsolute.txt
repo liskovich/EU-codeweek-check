@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\bin\Debug\netstandard2.0\CheckApp.deps.json
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\bin\Debug\netstandard2.0\CheckApp.dll
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\bin\Debug\netstandard2.0\ref\CheckApp.dll
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\bin\Debug\netstandard2.0\CheckApp.pdb
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.dll
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\ref\CheckApp.dll
+C:\Users\user\Desktop\Projects\EU codeweek\EUCodeWeek\CheckApp\CheckApp\obj\Debug\netstandard2.0\CheckApp.pdb
